@@ -324,3 +324,4 @@ cython_debug/
 
 
 .history
+*.zip
